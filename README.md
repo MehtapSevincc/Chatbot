@@ -75,7 +75,7 @@ GOOGLE_API_KEY=senin_gemini_api_anahtarin
 ```bash
 - npm run dev
 ```
-<img src= "./images/ss1.png" alt="Screenshot" width="600"
+<img src= "./images/ss1.png" alt="Screenshot" width="600">
 
 ## 🚀 Nasıl Çalışır?
 
